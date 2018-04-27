@@ -101,7 +101,7 @@ def winner(board)
     end
   else
     nil
-  end
+end
   
 =begin
   the_winning_letter = won?(board)
